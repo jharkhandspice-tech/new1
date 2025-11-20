@@ -443,7 +443,7 @@
         renderProducts();
 
         // === GEMINI API CONFIGURATION ===
-        const apiKey = "AIzaSyCJzpeg2JznLM8LQhsYyQvw1BWT7rEJQb4"; // Provided by system
+        const apiKey = ""; // Provided by system
 
         // === FEATURE 1: AI CHEF (TEXT) ===
         async function askAIChef() {
